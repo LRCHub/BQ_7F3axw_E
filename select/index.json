@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Berryz工房 『cha cha SING』 (MV)",
+  "base_artist": "Berryz工房",
+  "createdAt": "2026-01-11T08:07:57.851949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "cha cha sing",
+      "artist": "berryz kobou",
+      "has_synced": true,
+      "path": "select/01_cha_cha_sing_berryz_kobou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "cha cha SING",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_01_cha_cha_SING_Berryz工房.txt"
+    }
+  ]
+}
